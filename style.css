@@ -127,6 +127,10 @@ ul {
   gap: 40px;
 }
 
+.nav-toggle {
+  display: none;
+}
+
 /* header section */
 header {
   padding: 50px var(--padding-inline-section) 0;
